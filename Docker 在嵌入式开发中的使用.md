@@ -14,7 +14,7 @@ cd ~/embedded_docker/work/
 
 拉取 Dockerfile 文件
 ```
-
+git clone https://github.com/ziqian-L/qtcreator-with-docker.git
 ```
 
 启动 Docker，构建容器，名称为 qt-ubuntu-20.04-x86
